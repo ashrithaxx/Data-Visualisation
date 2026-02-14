@@ -1,5 +1,4 @@
 ## Data Visualization and Storytelling
----
 
 ### Dataset
 - Adidas Sales Dataset
