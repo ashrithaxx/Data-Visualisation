@@ -3,12 +3,10 @@
 ### Dataset
 - Adidas Sales Dataset
 
----
 
 ### Tools Used
 - Power BI
 
----
 
 ### Visualizations Created
 - Most Profitable Products
@@ -18,7 +16,6 @@
 - Product Share of Orders  
 - Product Ranking by Region  
 
----
 
 ### Insights
 - Footwear products generate the highest profits.
@@ -27,4 +24,3 @@
 - Foot Locker and West Gear are key retail partners.
 - Portland is the leading city by order volume.
 
----
