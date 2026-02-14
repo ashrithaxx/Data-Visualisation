@@ -1,14 +1,15 @@
-## Data Visualization and Storytelling
+# Data Visualization and Storytelling
+# Task 2
 
-### Dataset
+## Dataset
 - Adidas Sales Dataset
 
 
-### Tools Used
+## Tools Used
 - Power BI
 
 
-### Visualizations Created
+## Visualizations Created
 - Most Profitable Products
 - Orders by Retailer  
 - Orders by Sales Method  
@@ -17,10 +18,9 @@
 - Product Ranking by Region  
 
 
-### Insights
+## Insights
 - Footwear products generate the highest profits.
 - Customers prefer online shopping
 - Product performance varies across regions.
 - Foot Locker and West Gear are key retail partners.
 - Portland is the leading city by order volume.
-
